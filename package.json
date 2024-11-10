@@ -1,0 +1,34 @@
+{
+  "name": "projeto_edukids",
+  "version": "1.0.0",
+  "description": "Este é um projeto acadêmico quê visa ajudar no desenvolvimentos de crianças,  que estão no início da vida escolar e que tenha ou não alguma dificuldade de aprendizado. Assim contribuindo com o desenvolvimento educacional dos alunos dos primeiros anos escolares.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/work/Documentos/Meus arquivos./meus códigos/projetos/.git/"
+  },
+  "keywords": [
+    "Palavras-chave:",
+    "IFPE",
+    "projeto",
+    "acadêmico",
+    "ensino",
+    "estudo",
+    "educação",
+    "infantil",
+    "escolar",
+    "desenvolvimento",
+    "criança."
+  ],
+  "author": "Maviael Melo.",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
